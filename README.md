@@ -1,5 +1,7 @@
 # Class Activity 1
 
+## Deadline: August 27 by 3pm
+
 For the first activity we will explore names used to describe various security areas. You are invited to research the definitions of these areas and compare and contrast their purpose.
 
 ## Assignment
